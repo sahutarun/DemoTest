@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Demo Pet Store","Verify if the user able to add and delete Pet from pet Store","SUCCESS","2020-10-19T00:43:43.346+05:30[Asia/Kolkata]","0.0","14.11"
+"Place an Order","Verify if the user able to place an order from the DEMO ONLINE SHOP","SUCCESS","2020-10-19T00:43:01.434+05:30[Asia/Kolkata]","0.0","38.02"
